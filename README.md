@@ -13,7 +13,7 @@ Biomedical engineer who builds health AI that has to prove itself against a refe
 - Dental biomaterials and how diabetes changes tooth tissue.
 
 **Code here**
-- [`clinical-ai-proving-ground`](https://github.com/masaghiri/clinical-ai-proving-ground): toolkit and protocol for testing an AI tool against a reference standard.
+- [`clinical-ai-proving-ground`](https://github.com/masaghiri/clinical-ai-proving-ground): toolkit and protocol for testing an AI tool against a reference standard ([try it in your browser](https://huggingface.co/spaces/masaghiri/clinical-ai-proving-ground)).
 - [`voice-biomarker-features`](https://github.com/masaghiri/voice-biomarker-features): acoustic voice features used in voice-and-diabetes research.
 
-[Website](https://masaghiri.github.io) · [Google Scholar](https://scholar.google.com/citations?user=ao3sH5wAAAAJ) · [ORCID](https://orcid.org/0000-0002-5064-7828) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=24067292800) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Saghiri+MA%5BAuthor%5D&sort=date&size=200)
+[Website](https://masaghiri.github.io) · [Google Scholar](https://scholar.google.com/citations?user=ao3sH5wAAAAJ) · [ORCID](https://orcid.org/0000-0002-5064-7828) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=24067292800) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Saghiri+MA%5BAuthor%5D&sort=date&size=200) · [Hugging Face](https://huggingface.co/masaghiri)
